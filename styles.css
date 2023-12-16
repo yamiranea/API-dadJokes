@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: #686de0;
+    background-image: url('https://t4.ftcdn.net/jpg/03/44/01/63/360_F_344016360_xazOIOq4FinrEtTD65hxnj8hjXLpbqQP.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;    
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
